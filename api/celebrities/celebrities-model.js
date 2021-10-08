@@ -21,6 +21,7 @@ function remove(id) {
 
 module.exports = {
     getAll,
+    getById,
     insert,
     remove
 }
